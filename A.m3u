@@ -1,0 +1,75 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="DE: ----- SPORT -----" tvg-logo="http://sltv-icon.cms-s.com/logo/flag/ger.png" group-title="DE SPORT",DE: ----- SPORT -----
+http://sonymax.org:8080/AcB9m7724C/68vne4YW2E/135926
+#EXTINF:-1 tvg-id="eurosport1.de" tvg-name="DE: EUROSPORT 1 HD" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/eurosport_1.png" group-title="DE SPORT",DE: EUROSPORT 1 HD
+http://sonymax.org:8080/AcB9m7724C/68vne4YW2E/3440
+#EXTINF:-1 tvg-id="sportdigital.de" tvg-name="DE: SPORTDIGITAL FUSSBALL" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/sportdigital_fb.png" group-title="DE SPORT",DE: SPORTDIGITAL FUSSBALL
+http://sonymax.org:8080/AcB9m7724C/68vne4YW2E/235605
+#EXTINF:-1 tvg-name="DE: CHAMPIONS LEAGUE 1 HD (DIENSTAG - SPIELZEIT)" tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/champions-league.png" group-title="DE SPORT",DE: CHAMPIONS LEAGUE 1 HD (DIENSTAG - SPIELZEIT)
+http://sonymax.org:8080/AcB9m7724C/68vne4YW2E/528991
+#EXTINF:-1 tvg-name="DE: CHAMPIONS LEAGUE 2 HD (DIENSTAG - SPIELZEIT)" tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/champions-league.png" group-title="DE SPORT",DE: CHAMPIONS LEAGUE 2 HD (DIENSTAG - SPIELZEIT)
+http://sonymax.org:8080/AcB9m7724C/68vne4YW2E/586478
+#EXTINF:-1 tvg-name="DE: CHAMPIONS LEAGUE 3 HD (DIENSTAG - SPIELZEIT)" tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/champions-league.png" group-title="DE SPORT",DE: CHAMPIONS LEAGUE 3 HD (DIENSTAG - SPIELZEIT)
+http://sonymax.org:8080/AcB9m7724C/68vne4YW2E/586479
+#EXTINF:-1 tvg-id="dazn1.de" tvg-name="DE: DAZN 1 SD" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/dazn_bar_1.png" group-title="DE SPORT",DE: DAZN 1 SD
+http://sonymax.org:8080/AcB9m7724C/68vne4YW2E/623281
+#EXTINF:-1 tvg-id="dazn1.de" tvg-name="DE: DAZN 1 HD" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/dazn_bar_1.png" group-title="DE SPORT",DE: DAZN 1 HD
+http://sonymax.org:8080/AcB9m7724C/68vne4YW2E/161313
+#EXTINF:-1 tvg-id="dazn2.de" tvg-name="DE: DAZN 2 SD" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/dazn_bar_2.png" group-title="DE SPORT",DE: DAZN 2 SD
+http://sonymax.org:8080/AcB9m7724C/68vne4YW2E/623283
+#EXTINF:-1 tvg-id="dazn2.de" tvg-name="DE: DAZN 2 HD" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/dazn_bar_2.png" group-title="DE SPORT",DE: DAZN 2 HD
+http://sonymax.org:8080/AcB9m7724C/68vne4YW2E/161314
+#EXTINF:-1 tvg-id="skysporttopevent.de" tvg-name="DE: SKY SPORT TOP EVENT HD" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/skySportTopEvent.png" group-title="DE SPORT",DE: SKY SPORT TOP EVENT HD
+http://sonymax.org:8080/AcB9m7724C/68vne4YW2E/426449
+#EXTINF:-1 tvg-id="skysportpremierleague.de" tvg-name="DE: SKY SPORT PREMIER LEAGUE HD" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/skySportPremLeag.png" group-title="DE SPORT",DE: SKY SPORT PREMIER LEAGUE HD
+http://sonymax.org:8080/AcB9m7724C/68vne4YW2E/426452
+#EXTINF:-1 tvg-id="skysportmix.de" tvg-name="DE: SKY SPORT MIX HD" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/skySportMix.png" group-title="DE SPORT",DE: SKY SPORT MIX HD
+http://sonymax.org:8080/AcB9m7724C/68vne4YW2E/426451
+#EXTINF:-1 tvg-id="skysporttennis.de" tvg-name="DE: SKY SPORT TENNIS HD" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/skySportTennis.png" group-title="DE SPORT",DE: SKY SPORT TENNIS HD
+http://sonymax.org:8080/AcB9m7724C/68vne4YW2E/426450
+#EXTINF:-1 tvg-id="skysportaustria.at" tvg-name="DE: SKY SPORT AUSTRIA HD" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/sky_sport_austria.png" group-title="DE SPORT",DE: SKY SPORT AUSTRIA HD
+http://sonymax.org:8080/AcB9m7724C/68vne4YW2E/3377
+#EXTINF:-1 tvg-id="skybundesliga1.de" tvg-name="DE: SKY SPORT BUNDESLIGA 1 HD" tvg-logo="http://sltv-icon.cms-s.com/logo/germany/sky_bundesliga_hd_1.png" group-title="DE SPORT",DE: SKY SPORT BUNDESLIGA 1 HD
+http://sonymax.org:8080/AcB9m7724C/68vne4YW2E/29997
+#EXTINF:-1 tvg-id="skybundesliga2.de" tvg-name="DE: SKY SPORT BUNDESLIGA 2 HD (SPIELZEIT)" tvg-logo="http://sltv-icon.cms-s.com/logo/germany/sky_bundesliga_hd_2.png" group-title="DE SPORT",DE: SKY SPORT BUNDESLIGA 2 HD (SPIELZEIT)
+http://sonymax.org:8080/AcB9m7724C/68vne4YW2E/3413
+#EXTINF:-1 tvg-id="skybundesliga3.de" tvg-name="DE: SKY SPORT BUNDESLIGA 3 HD (SPIELZEIT)" tvg-logo="http://sltv-icon.cms-s.com/logo/germany/sky_bundesliga_hd_3.png" group-title="DE SPORT",DE: SKY SPORT BUNDESLIGA 3 HD (SPIELZEIT)
+http://sonymax.org:8080/AcB9m7724C/68vne4YW2E/3412
+#EXTINF:-1 tvg-id="skybundesliga4.de" tvg-name="DE: SKY SPORT BUNDESLIGA 4 HD (SPIELZEIT)" tvg-logo="http://sltv-icon.cms-s.com/logo/germany/sky_bundesliga_hd_4.png" group-title="DE SPORT",DE: SKY SPORT BUNDESLIGA 4 HD (SPIELZEIT)
+http://sonymax.org:8080/AcB9m7724C/68vne4YW2E/123115
+#EXTINF:-1 tvg-id="skybundesliga5.de" tvg-name="DE: SKY SPORT BUNDESLIGA 5 HD (SPIELZEIT)" tvg-logo="http://sltv-icon.cms-s.com/logo/germany/sky_bundesliga_hd_5.png" group-title="DE SPORT",DE: SKY SPORT BUNDESLIGA 5 HD (SPIELZEIT)
+http://sonymax.org:8080/AcB9m7724C/68vne4YW2E/3410
+#EXTINF:-1 tvg-id="skybundesliga5.de" tvg-name="DE: SKY SPORT BUNDESLIGA 6 HD (SPIELZEIT)" tvg-logo="http://sltv-icon.cms-s.com/logo/germany/sky_bundesliga_hd_6.png" group-title="DE SPORT",DE: SKY SPORT BUNDESLIGA 6 HD (SPIELZEIT)
+http://sonymax.org:8080/AcB9m7724C/68vne4YW2E/3409
+#EXTINF:-1 tvg-id="skybundesliga7.de" tvg-name="DE: SKY SPORT BUNDESLIGA 7 HD (SPIELZEIT)" tvg-logo="http://sltv-icon.cms-s.com/logo/germany/sky_bundesliga_hd_7.png" group-title="DE SPORT",DE: SKY SPORT BUNDESLIGA 7 HD (SPIELZEIT)
+http://sonymax.org:8080/AcB9m7724C/68vne4YW2E/3408
+#EXTINF:-1 tvg-id="skybundesliga8.de" tvg-name="DE: SKY SPORT BUNDESLIGA 8 HD (SPIELZEIT)" tvg-logo="http://sltv-icon.cms-s.com/logo/germany/sky_bundesliga_hd_8.png" group-title="DE SPORT",DE: SKY SPORT BUNDESLIGA 8 HD (SPIELZEIT)
+http://sonymax.org:8080/AcB9m7724C/68vne4YW2E/3407
+#EXTINF:-1 tvg-id="skybundesliga9.de" tvg-name="DE: SKY SPORT BUNDESLIGA 9 HD (SPIELZEIT)" tvg-logo="http://sltv-icon.cms-s.com/logo/germany/sky_bundesliga_hd_9.png" group-title="DE SPORT",DE: SKY SPORT BUNDESLIGA 9 HD (SPIELZEIT)
+http://sonymax.org:8080/AcB9m7724C/68vne4YW2E/3406
+#EXTINF:-1 tvg-id="skybundesliga10.de" tvg-name="DE: SKY SPORT BUNDESLIGA 10 HD (SPIELZEIT)" tvg-logo="http://sltv-icon.cms-s.com/logo/germany/sky_bundesliga_hd_10.png" group-title="DE SPORT",DE: SKY SPORT BUNDESLIGA 10 HD (SPIELZEIT)
+http://sonymax.org:8080/AcB9m7724C/68vne4YW2E/3414
+#EXTINF:-1 tvg-id="skysport1.de" tvg-name="DE: SKY SPORT 1 HD (SPIELZEIT)" tvg-logo="http://sltv-icon.cms-s.com/logo/germany/sky_sport_hd_1.png" group-title="DE SPORT",DE: SKY SPORT 1 HD (SPIELZEIT)
+http://sonymax.org:8080/AcB9m7724C/68vne4YW2E/30036
+#EXTINF:-1 tvg-id="skysport2.de" tvg-name="DE: SKY SPORT 2 HD (SPIELZEIT)" tvg-logo="http://sltv-icon.cms-s.com/logo/germany/sky_sport_hd_2.png" group-title="DE SPORT",DE: SKY SPORT 2 HD (SPIELZEIT)
+http://sonymax.org:8080/AcB9m7724C/68vne4YW2E/30039
+#EXTINF:-1 tvg-id="skysport3.de" tvg-name="DE: SKY SPORT 3 HD (SPIELZEIT)" tvg-logo="http://sltv-icon.cms-s.com/logo/germany/sky_sport_hd_3.png" group-title="DE SPORT",DE: SKY SPORT 3 HD (SPIELZEIT)
+http://sonymax.org:8080/AcB9m7724C/68vne4YW2E/123018
+#EXTINF:-1 tvg-id="skysport4.de" tvg-name="DE: SKY SPORT 4 HD (SPIELZEIT)" tvg-logo="http://sltv-icon.cms-s.com/logo/germany/sky_sport_hd_4.png" group-title="DE SPORT",DE: SKY SPORT 4 HD (SPIELZEIT)
+http://sonymax.org:8080/AcB9m7724C/68vne4YW2E/123019
+#EXTINF:-1 tvg-id="skysport5.de" tvg-name="DE: SKY SPORT 5 HD (SPIELZEIT)" tvg-logo="http://sltv-icon.cms-s.com/logo/germany/sky_sport_hd_5.png" group-title="DE SPORT",DE: SKY SPORT 5 HD (SPIELZEIT)
+http://sonymax.org:8080/AcB9m7724C/68vne4YW2E/123020
+#EXTINF:-1 tvg-id="skysport6.de" tvg-name="DE: SKY SPORT 6 HD (SPIELZEIT)" tvg-logo="http://sltv-icon.cms-s.com/logo/germany/sky_sport_hd_6.png" group-title="DE SPORT",DE: SKY SPORT 6 HD (SPIELZEIT)
+http://sonymax.org:8080/AcB9m7724C/68vne4YW2E/123021
+#EXTINF:-1 tvg-id="skysport7.de" tvg-name="DE: SKY SPORT 7 HD (SPIELZEIT)" tvg-logo="http://sltv-icon.cms-s.com/logo/germany/sky_sport_hd_7.png" group-title="DE SPORT",DE: SKY SPORT 7 HD (SPIELZEIT)
+http://sonymax.org:8080/AcB9m7724C/68vne4YW2E/123022
+#EXTINF:-1 tvg-id="skysport8.de" tvg-name="DE: SKY SPORT 8 HD (SPIELZEIT)" tvg-logo="http://sltv-icon.cms-s.com/logo/germany/sky_sport_hd_8.png" group-title="DE SPORT",DE: SKY SPORT 8 HD (SPIELZEIT)
+http://sonymax.org:8080/AcB9m7724C/68vne4YW2E/123023
+#EXTINF:-1 tvg-id="skysport9.de" tvg-name="DE: SKY SPORT 9 HD (SPIELZEIT)" tvg-logo="http://sltv-icon.cms-s.com/logo/germany/sky_sport_hd_9.png" group-title="DE SPORT",DE: SKY SPORT 9 HD (SPIELZEIT)
+http://sonymax.org:8080/AcB9m7724C/68vne4YW2E/123024
+#EXTINF:-1 tvg-id="skysport10.de" tvg-name="DE: SKY SPORT 10 HD (SPIELZEIT)" tvg-logo="http://sltv-icon.cms-s.com/logo/germany/sky_sport_hd_10.png" group-title="DE SPORT",DE: SKY SPORT 10 HD (SPIELZEIT)
+http://sonymax.org:8080/AcB9m7724C/68vne4YW2E/123025
+#EXTINF:-1 tvg-id="skysport11.de" tvg-name="DE: SKY SPORT 11 HD (SPIELZEIT)" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/skySport11.png" group-title="DE SPORT",DE: SKY SPORT 11 HD (SPIELZEIT)
+http://sonymax.org:8080/AcB9m7724C/68vne4YW2E/395375
+#EXTINF:-1 tvg-name="DE: UFC FIGHT PASS" tvg-logo="http://sltv-icon.cms-s.com/logo/USA/UFCFIGHTPASS.png" group-title="DE SPORT",DE: UFC FIGHT PASS
+http://sonymax.org:8080/AcB9m7724C/68vne4YW2E/423897
