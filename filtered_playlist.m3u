@@ -1,0 +1,43 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="supersportcricket.za" tvg-name="Af | DSTV: Super Sports Cricket" group-title="DSTV | SUPER SPORTS",Af | DSTV: Super Sports Cricket
+http://opplex.to:8080/03332368799/22345670/238475
+#EXTINF:-1 tvg-id="supersportgrandstand.za" tvg-name="Af | DSTV: Super Sports Grand Stand" group-title="DSTV | SUPER SPORTS",Af | DSTV: Super Sports Grand Stand
+http://opplex.to:8080/03332368799/22345670/238476
+#EXTINF:-1 tvg-id="supersportpsl.za" tvg-name="DSTV: Super Sports PSL" tvg-logo="http://vod-logo.net/photos/ff8d998db66bc29690a5dcc2cb0e1641.png" group-title="DSTV | SUPER SPORTS",DSTV: Super Sports PSL
+http://opplex.to:8080/03332368799/22345670/238477
+#EXTINF:-1 tvg-id="supersportpremierleague.za" tvg-name="Af | DSTV: Super Sports Premier League" tvg-logo="http://vod-logo.net/photos/21983d23cf9b0231583ecd219b73ed98.png" group-title="DSTV | SUPER SPORTS",Af | DSTV: Super Sports Premier League
+http://opplex.to:8080/03332368799/22345670/238478
+#EXTINF:-1 tvg-id="supersportlaliga.za" tvg-name="Af | DSTV: Super Sports La Liga" group-title="DSTV | SUPER SPORTS",Af | DSTV: Super Sports La Liga
+http://opplex.to:8080/03332368799/22345670/238479
+#EXTINF:-1 tvg-id="supersportfootball.za" tvg-name="Af | DSTV: Super Sports Football" group-title="DSTV | SUPER SPORTS",Af | DSTV: Super Sports Football
+http://opplex.to:8080/03332368799/22345670/238480
+#EXTINF:-1 tvg-id="supersportvariety1.za" tvg-name="Af | DSTV: Super Sports Variety 1" group-title="DSTV | SUPER SPORTS",Af | DSTV: Super Sports Variety 1
+http://opplex.to:8080/03332368799/22345670/238481
+#EXTINF:-1 tvg-id="supersportvariety2.za" tvg-name="Af | DSTV: Super Sports Variety 2" group-title="DSTV | SUPER SPORTS",Af | DSTV: Super Sports Variety 2
+http://opplex.to:8080/03332368799/22345670/238482
+#EXTINF:-1 tvg-id="supersportvariety3.za" tvg-name="Af | DSTV: Super Sports Variety 3" group-title="DSTV | SUPER SPORTS",Af | DSTV: Super Sports Variety 3
+http://opplex.to:8080/03332368799/22345670/238483
+#EXTINF:-1 tvg-id="supersportvariety4.za" tvg-name="Af | DSTV: Super Sports Variety 4" tvg-logo="http://vod-logo.net/photos/ba7b6c2a20cad542fcd0e712cbe9fc08.jpg" group-title="DSTV | SUPER SPORTS",Af | DSTV: Super Sports Variety 4
+http://opplex.to:8080/03332368799/22345670/238484
+#EXTINF:-1 tvg-id="supersportaction.za" tvg-name="Af | DSTV: Super Sports Action" group-title="DSTV | SUPER SPORTS",Af | DSTV: Super Sports Action
+http://opplex.to:8080/03332368799/22345670/238485
+#EXTINF:-1 tvg-id="supersportrugby.za" tvg-name="Af | DSTV: Super Sports Rugby" group-title="DSTV | SUPER SPORTS",Af | DSTV: Super Sports Rugby
+http://opplex.to:8080/03332368799/22345670/238486
+#EXTINF:-1 tvg-id="supersportblitz.za" tvg-name="Af | DSTV: Super Sports Blitz" tvg-logo="http://vod-logo.net/photos/332926d9c2a786cca9108445aed110d5.png" group-title="DSTV | SUPER SPORTS",Af | DSTV: Super Sports Blitz
+http://opplex.to:8080/03332368799/22345670/238487
+#EXTINF:-1 tvg-id="supersportgolf.za" tvg-name="Af | DSTV: Super Sports Golf" tvg-logo="http://vod-logo.net/photos/d183f08eef1f25d1eb37323912362ba0.jpg" group-title="DSTV | SUPER SPORTS",Af | DSTV: Super Sports Golf
+http://opplex.to:8080/03332368799/22345670/238488
+#EXTINF:-1 tvg-id="supersporttennis.za" tvg-name="Af | DSTV: Super Sports Tennis" tvg-logo="http://vod-logo.net/photos/581f4c3bf17495aed6fe7df81e478a86.jpg" group-title="DSTV | SUPER SPORTS",Af | DSTV: Super Sports Tennis
+http://opplex.to:8080/03332368799/22345670/238489
+#EXTINF:-1 tvg-id="supersportmotorsport.za" tvg-name="Af | DSTV: Super Sports MotorSports" group-title="DSTV | SUPER SPORTS",Af | DSTV: Super Sports MotorSports
+http://opplex.to:8080/03332368799/22345670/238490
+#EXTINF:-1 tvg-id="espn.za" tvg-name="Af | DSTV: ESPN 1" group-title="DSTV | SUPER SPORTS",Af | DSTV: ESPN 1
+http://opplex.to:8080/03332368799/22345670/238491
+#EXTINF:-1 tvg-id="espn2.za" tvg-name="Af | DSTV: ESPN 2" group-title="DSTV | SUPER SPORTS",Af | DSTV: ESPN 2
+http://opplex.to:8080/03332368799/22345670/238492
+#EXTINF:-1 tvg-id="supersportmaximo1.za" tvg-name="Af | DSTV: SuperSport Maximo 1" tvg-logo="http://vod-logo.net/photos/0156bdbd85cb9e551f0afb40a246a8c0.jpg" group-title="DSTV | SUPER SPORTS",Af | DSTV: SuperSport Maximo 1
+http://opplex.to:8080/03332368799/22345670/238493
+#EXTINF:-1 tvg-name="AF: WWE Superslam" group-title="DSTV | SUPER SPORTS",AF: WWE Superslam
+http://opplex.to:8080/03332368799/22345670/383060
+#EXTINF:-1 tvg-id="SupersportPlayAfrica.ke" tvg-name="DSTV: SuperSport Play" tvg-logo="https://angorussia.com/wp-content/uploads/2020/08/supersport.png" group-title="DSTV | SUPER SPORTS",DSTV: SuperSport Play
+http://opplex.to:8080/03332368799/22345670/222370
